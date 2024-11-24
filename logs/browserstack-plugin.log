@@ -268,3 +268,15 @@
 09:54:26.480 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
 09:54:26.481 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
 09:54:26.485 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/APPIUMSCRIPTS
+10:11:50.457 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:11:50.457 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:11:50.461 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/APPIUMSCRIPTS
+10:11:50.462 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:11:50.463 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:11:50.466 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/APPIUMSCRIPTS
+10:15:37.251 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:15:37.252 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:15:37.256 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/APPIUMSCRIPTS
+10:15:37.257 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:15:37.257 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:15:37.262 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/APPIUMSCRIPTS

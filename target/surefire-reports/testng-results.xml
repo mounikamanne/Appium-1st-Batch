@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-24T09:55:21 IST" name="Suite" finished-at="2024-11-24T09:57:49 IST" duration-ms="148430">
+    <groups>
+    </groups>
+    <test started-at="2024-11-24T09:55:21 IST" name="Test-1" finished-at="2024-11-24T09:57:22 IST" duration-ms="121911">
+      <class name="com.pack.testsuite.GeneralStore">
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:55:21 IST" name="startAppiumServer" finished-at="2024-11-24T09:55:35 IST" duration-ms="14098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:55:35 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:55:57 IST" duration-ms="22177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:55:57 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:56:27 IST" duration-ms="29487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:56:27 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:33 IST" duration-ms="5831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:56:33 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:56:47 IST" duration-ms="14100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Anand, country=Argentina, gender=male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:56:47 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:53 IST" duration-ms="5718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:56:53 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:57:20 IST" duration-ms="26600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@6ae3fb94]" started-at="2024-11-24T09:57:20 IST" name="stopAppiumServer" finished-at="2024-11-24T09:57:22 IST" duration-ms="2699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- com.pack.testsuite.GeneralStore -->
+    </test> <!-- Test-1 -->
+    <test started-at="2024-11-24T09:55:21 IST" name="Test-0" finished-at="2024-11-24T09:57:31 IST" duration-ms="130078">
+      <class name="com.pack.testsuite.GeneralStore">
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:55:21 IST" name="startAppiumServer" finished-at="2024-11-24T09:55:35 IST" duration-ms="14102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:55:35 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:55:59 IST" duration-ms="23314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:55:59 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:56:29 IST" duration-ms="30658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:56:29 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:35 IST" duration-ms="5596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:56:35 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:56:52 IST" duration-ms="17308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Anand, country=Argentina, gender=male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:56:53 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:58 IST" duration-ms="5639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:56:58 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:57:28 IST" duration-ms="30235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@49c8f6e8]" started-at="2024-11-24T09:57:29 IST" name="stopAppiumServer" finished-at="2024-11-24T09:57:31 IST" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- com.pack.testsuite.GeneralStore -->
+    </test> <!-- Test-0 -->
+    <test started-at="2024-11-24T09:55:21 IST" name="Test-2" finished-at="2024-11-24T09:57:49 IST" duration-ms="148430">
+      <class name="com.pack.testsuite.GeneralStore">
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:55:21 IST" name="startAppiumServer" finished-at="2024-11-24T09:55:35 IST" duration-ms="14097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:55:35 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:13 IST" duration-ms="37388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:56:13 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:56:44 IST" duration-ms="31589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:56:44 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:56:51 IST" duration-ms="6248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:56:51 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:57:10 IST" duration-ms="19247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Anand, country=Argentina, gender=male}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:57:10 IST" name="setupAndroidDriver" finished-at="2024-11-24T09:57:16 IST" duration-ms="6143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="GeneralStoretest(java.util.HashMap)[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:57:16 IST" name="GeneralStoretest" data-provider="loginData" finished-at="2024-11-24T09:57:46 IST" duration-ms="29809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Mounika, country=Denmark, gender=female}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralStoretest -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:com.pack.testsuite.GeneralStore@548d5ed3]" started-at="2024-11-24T09:57:46 IST" name="stopAppiumServer" finished-at="2024-11-24T09:57:49 IST" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- com.pack.testsuite.GeneralStore -->
+    </test> <!-- Test-2 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -38,12 +38,12 @@ app: bs://bb2c679c4baa9a65663070218a05f44c0859fd78 # BrowserStack Sample App
 # Entire list available here -> (https://www.browserstack.com/list-of-browsers-and-platforms/automate)
 platforms:
  
-  - platformName: android
-    deviceName: Google Pixel 8
-    platformVersion: 14.0
-  - platformName: android
-    deviceName: OnePlus 8
-    platformVersion: 10.0
+ # - platformName: android
+  #  deviceName: Google Pixel 8
+   # platformVersion: 14.0
+  #- platformName: android
+  #  deviceName: OnePlus 8
+  #  platformVersion: 10.0
   - platformName: android
     deviceName: Xiaomi Redmi Note 8
     platformVersion: 9.0
